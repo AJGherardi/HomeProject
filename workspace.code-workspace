@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "HomeHub"
+		},
+		{
+			"path": "HomeApp"
+		},
+		{
+			"path": "OutletFirmware"
+		},
+		{
+			"path": "MeshController"
+		},
+		{
+			"path": "Tools"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"dart-code.dart-code",
+			"ms-azuretools.vscode-docker",
+			"golang.go",
+			"kumar-harsh.graphql-for-vscode",
+			"redhat.vscode-yaml",
+			"dart-code.flutter",
+			"platformio.platformio-ide"
+		]
+	},
+	"settings": {}
+}

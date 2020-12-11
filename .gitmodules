@@ -1,0 +1,12 @@
+[submodule "HomeHub"]
+	path = HomeHub
+	url = https://github.com/AJGherardi/HomeHub
+[submodule "HomeApp"]
+	path = HomeApp
+	url = https://github.com/AJGherardi/HomeApp
+[submodule "OutletFirmware"]
+	path = OutletFirmware
+	url = https://github.com/AJGherardi/OutletFirmware
+[submodule "MeshController"]
+	path = MeshController
+	url = https://github.com/AJGherardi/MeshController
