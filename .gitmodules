@@ -10,3 +10,6 @@
 [submodule "MeshController"]
 	path = MeshController
 	url = https://github.com/AJGherardi/MeshController
+[submodule "GoMeshController"]
+	path = GoMeshController
+	url = https://github.com/AJGherardi/GoMeshController

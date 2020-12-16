@@ -1,18 +1,27 @@
 {
 	"folders": [
 		{
+			"name": "HomeHub",
 			"path": "HomeHub"
 		},
 		{
+			"name": "HomeApp",
 			"path": "HomeApp"
 		},
 		{
+			"name": "OutletFirmware",
 			"path": "OutletFirmware"
 		},
 		{
+			"name": "MeshController",
 			"path": "MeshController"
 		},
 		{
+			"name": "GoMeshController",
+			"path": "GoMeshController"
+		},
+		{
+			"name": "Tools",
 			"path": "Tools"
 		}
 	],
