@@ -20,3 +20,5 @@ source ~/.profile
 flutter doctor --android-licenses
 # add udev file for mesh controller
 echo 'SUBSYSTEM=="usb", ATTRS{idVendor}=="2fe3", ATTR{idProduct}=="0100", MODE="0666"' >> /etc/udev/rules.d/100-control.rules
+echo 'net.ipv4.ip_unprivileged_port_start=0' > /etc/sysctl.d/50-unprivileged-ports.conf
+sysctl --system
