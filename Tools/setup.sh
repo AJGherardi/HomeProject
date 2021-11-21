@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # install snaps
 snap install android-studio --classic
 snap install flutter --classic

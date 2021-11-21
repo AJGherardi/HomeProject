@@ -9,8 +9,8 @@
 			"path": "HomeApp"
 		},
 		{
-			"name": "OutletFirmware",
-			"path": "OutletFirmware"
+			"name": "ButtonFirmware",
+			"path": "ButtonFirmware"
 		},
 		{
 			"name": "MeshController",
@@ -37,5 +37,12 @@
 			"platformio.platformio-ide"
 		]
 	},
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"ranges": "cpp"
+		}
+	}
 }
